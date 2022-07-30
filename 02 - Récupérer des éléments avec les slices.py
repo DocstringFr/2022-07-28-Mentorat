@@ -10,7 +10,7 @@ def test_trois_premiers(liste: list[int]) -> list[int]:
 
 def test_trois_derniers(liste: list[int]) -> list[int]:
     # Les trois derniers employés ("Carlos", "Michael" et "Éric") dans une liste trois_derniers.
-    # start = -3    [default]
+    # start = -3
     # stop = None  [default]
     # increment = 1 [default]
     # trois_derniers = liste[start:stop:increment]
